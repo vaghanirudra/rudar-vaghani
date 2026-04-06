@@ -13,7 +13,7 @@ int main()
    return 0; 
 }
 
-// 
+/*
 enter the radiud of circle 10
 area of circle = 0.00
-//
+*/
